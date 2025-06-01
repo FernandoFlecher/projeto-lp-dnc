@@ -1,4 +1,4 @@
-echo "# projeto-lp-dnc" >> README.md 
+# projeto-lp-dnc" >> README.md 
 git init 
 git add README.md 
 git commit -m "primeiro commit" 
